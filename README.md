@@ -13,7 +13,8 @@ The project was built using the following tools and technologies:<br>
 📊 Power BI Desktop – Interactive dashboard development and data storytelling.<br>
 🔄 Power Query – Data transformation and modeling within Power BI.<br>
 🧠 DAX – KPIs, calculated measures, and dynamic filtering.<br>
-📂 Excel (Supportive) – Quick validations and exploratory checks.
+📂 Excel (Supportive) – Quick validations and exploratory checks.<br>
+📁 Artifacts Included – Dashboard screenshots, business problem PDF and analysis documentation
 
 ## 4. Data Source
 Dataset Type: Retail customer shopping behavior data,
